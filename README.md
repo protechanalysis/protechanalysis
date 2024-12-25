@@ -1,4 +1,5 @@
 ## Hi there 👋
+Hi, I’m Adewunmi, a passionate Data Engineer skilled in building scalable data pipelines, optimizing data architectures, and enabling data-driven insights. I work with tools like Apache Airflow, Spark, and DBT, leveraging cloud platforms to deliver high-performance solutions. Let's connect and collaborate!
 
 <!--
 **protechanalysis/protechanalysis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
