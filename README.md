@@ -19,7 +19,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B)&nbsp;
 ![R](https://img.shields.io/badge/-R-323330?style=for-the-badge&logo=R)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-323330?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
+![TERRAFORM](https://img.shields.io/badge/-TERRAFORM-3670A0?style=for-the-badge&logo=TERRAFORM)&nbsp;
 
 ---
 <b>☁️ Databases</b>
